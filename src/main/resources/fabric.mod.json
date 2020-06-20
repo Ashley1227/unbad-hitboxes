@@ -13,8 +13,8 @@
     "sources": "https://github.com/Ashley1227/unbad-hitboxes"
   },
 
-  "license": "Unlicense",
-  "icon": "assets/unbad_redstone/icon.png",
+  "license": "The Unlicense",
+  "icon": "assets/unbad_hitboxes/icon.png",
 
   "environment": "*",
   "entrypoints": {
