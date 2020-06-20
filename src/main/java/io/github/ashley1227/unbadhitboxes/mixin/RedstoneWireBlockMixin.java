@@ -1,4 +1,4 @@
-package io.github.ashley1227.unbadredstone.mixin;
+package io.github.ashley1227.unbadhitboxes.mixin;
 
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.Maps;
@@ -23,7 +23,6 @@ import java.util.Map;
 
 @Mixin(value = RedstoneWireBlock.class, priority = 1)
 public class RedstoneWireBlockMixin {
-
 	@Shadow private static Map<Direction, EnumProperty<WireConnection>> DIRECTION_TO_WIRE_CONNECTION_PROPERTY;
 
 	/**

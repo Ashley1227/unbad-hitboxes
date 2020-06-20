@@ -1,12 +1,14 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "io.github.ashley1227.unbadredstone.mixin",
+  "package": "io.github.ashley1227.unbadhitboxes.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],
   "client": [
-    "RedstoneWireBlockMixin"
+    "RedstoneWireBlockMixin",
+    "FernBlockMixin",
+    "TallPlantBlockMixin"
   ],
   "injectors": {
     "defaultRequire": 1

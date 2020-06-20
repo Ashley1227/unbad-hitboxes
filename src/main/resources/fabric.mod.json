@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "unbad_redstone",
+  "id": "unbad_hitboxes",
   "version": "${version}",
 
-  "name": "Unbad Redstone",
-  "description": "§mMake redstone great again§r makes redstone hitboxes be a full square instead of just a tiny bit",
+  "name": "Unbad Hitboxes",
+  "description": "§mMake hitboxes great again§r makes some hitboxes easier to hit or more accurate",
   "authors": [
     "Ashley1227"
   ],
@@ -20,7 +20,7 @@
   "entrypoints": {
   },
   "mixins": [
-    "unbad_redstone.mixins.json"
+    "unbad_hitboxes.mixins.json"
   ],
 
   "depends": {
