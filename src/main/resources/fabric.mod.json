@@ -10,7 +10,7 @@
   ],
   "contact": {
     "homepage": "https://ashley1227.github.io/",
-    "sources": "https://github.com/Ashley1227/unbad-redstone"
+    "sources": "https://github.com/Ashley1227/unbad-hitboxes"
   },
 
   "license": "Unlicense",
@@ -25,6 +25,6 @@
 
   "depends": {
     "fabricloader": ">=0.7.4",
-    "minecraft": "1.15.x"
+    "minecraft": "1.16.x"
   }
 }
