@@ -10,11 +10,11 @@
   ],
   "contact": {
     "homepage": "https://ashley1227.github.io/",
-    "sources": "https://github.com/Ashley1227/unbad-redstone"
+    "sources": "https://github.com/Ashley1227/unbad-hitboxes"
   },
 
   "license": "Unlicense",
-  "icon": "assets/unbad_redstone/icon.png",
+  "icon": "assets/unbad_hitboxes/icon.png",
 
   "environment": "*",
   "entrypoints": {
