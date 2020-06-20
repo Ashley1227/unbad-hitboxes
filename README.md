@@ -1,5 +1,5 @@
-# Unbad Redstone
-Makes redstone hitboxes full squares instead of annoying tiny hitboxes that you'll probably miss
+# Unbad Hitboxes
+Makes all the annoying/inaccurate hitboxes unbad
 
 ## License
 
